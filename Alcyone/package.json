@@ -12,5 +12,20 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "the server for pleiades",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makoto0928/pleiades-server.git"
+  },
+  "keywords": [
+    "wedding"
+  ],
+  "author": "kazuki takahashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makoto0928/pleiades-server/issues"
+  },
+  "homepage": "https://github.com/Makoto0928/pleiades-server#readme"
 }
